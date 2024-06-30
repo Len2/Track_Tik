@@ -35,9 +35,8 @@ This project sets up a Laravel application with Docker using Docker Compose.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/laravel-docker.git
-   //TODO
-   cd laravel-docker
+   git clone https://github.com/Len2/Track_Tik.git
+   cd Track_Tik
 2. **Config env:**
 
    ```bash
